@@ -1,7 +1,13 @@
 ## Olá,eu sou Diego Janson, estudante de desenvolvimento em áreas diversas
-Atualmente tenho 16 anos,estou no ensino médio e programo usando o celular
 
-Me interesso mais pelas áreas de back end,apps e jogos
+- Atualmente tenho 16 anos,estou no ensino médio e programo usando o celular📱
+
+- Tenho interesse principalmente em desenvolvimento de jogos,apps e back end🎮
+
+- Não me dou bem com front end nem nada que envolva design
+
+- Atualmente estudando python 🐍
+
 
 ### Contatos
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/outragedline)
