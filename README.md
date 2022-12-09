@@ -5,7 +5,6 @@
   - [Reddit](https://www.reddit.com/user/outragedline)
 
 - DONATE
-  - BNB & ETH: 0x81b74101817bc3c69BFe80EBb81CF997b2635a75
   - BTC Lighting Network: outragedline@getalby.com
 
 
