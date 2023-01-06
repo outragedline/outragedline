@@ -1,12 +1,26 @@
-## Wellcome to my github profile
+## Hi there, I'm Outragedline
 
-- Socials
+### 💻 Backend developer
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+- 🌱 I’m currently learning Clang and C++
+- 💬 Ask me about python, java and linux
+- 📫 How to reach me: 
   - [Twitter](https://twitter.com/outragedline)
   - [Reddit](https://www.reddit.com/user/outragedline)
+- ⚡ Fun fact: I use Archlinux btw
+<hr />
 
-- DONATE
-  - BTC Lighting Network: outragedline@getalby.com
-
-
-![Outragedline GitHub stats](https://github-readme-stats.vercel.app/api?username=outragedline&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=outragedline&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+### Stats
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=outragedline&show_icons=true&theme=dracula" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outragedline&layout=compact&theme=dracula" />
+</div>
