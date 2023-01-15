@@ -11,8 +11,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Clang and C++
-- 💬 Ask me about python, java and linux
+- 🌱 I’m currently learning Rust 🦀
+- 💬 Ask me about python 🐍
 - 📫 How to reach me: 
   - [Twitter](https://twitter.com/outragedline)
   - [Reddit](https://www.reddit.com/user/outragedline)
