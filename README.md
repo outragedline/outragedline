@@ -16,6 +16,7 @@
 - 📫 How to reach me: 
   - [Twitter](https://twitter.com/outragedline)
   - [Reddit](https://www.reddit.com/user/outragedline)
+  - [Email](mailto:outragedline@proton.me)
 - ⚡ Fun fact: I use Archlinux btw
 <hr />
 
