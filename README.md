@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Rust 🦀
+- 🌱 I’m currently learning C
 - 💬 Ask me about python 🐍
 - 📫 How to reach me: 
   - [Twitter](https://twitter.com/outragedline)
