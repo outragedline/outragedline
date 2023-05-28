@@ -11,17 +11,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Typescript
 - 💬 Ask me about python 🐍
 - 📫 How to reach me: 
   - [Twitter](https://twitter.com/outragedline)
   - [Reddit](https://www.reddit.com/user/outragedline)
   - [Email](mailto:outragedline@proton.me)
 - ⚡ Fun fact: I use Archlinux btw
-<hr />
-
-### Stats
-<div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=outragedline&show_icons=true&theme=dracula" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outragedline&layout=compact&theme=dracula" />
-</div>
