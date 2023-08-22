@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently focused on learning the foundations of math and computer science
 - 💬 Ask me about python 🐍
 - 📫 How to reach me: 
   - [Twitter](https://twitter.com/outragedline)
