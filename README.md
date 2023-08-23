@@ -15,7 +15,7 @@
 - 💬 Ask me about python 🐍
 - 📫 How to reach me:
   - [Telegram](https://t.me/outragedline)
-  - [linkedin](https://www.linkedin.com/in/diego-santana-860564264)
+  - [linkedin](https://www.linkedin.com/in/diego-janson-860564264)
   - [Reddit](https://www.reddit.com/user/outragedline)
   - [Email](mailto:outragedline@proton.me)
 - ⚡ Fun fact: I use Archlinux btw
