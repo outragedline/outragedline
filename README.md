@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently focused on learning the foundations of math and computer science
-- 💬 Ask me about python 🐍
+- 💬 Ask me about linux 🐧
 - 📫 How to reach me:
   - [Telegram](https://t.me/outragedline)
   - [linkedin](https://www.linkedin.com/in/diego-janson-860564264)
