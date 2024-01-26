@@ -1,6 +1,6 @@
 ## Hi there, I'm Outragedline
 
-### 💻 Backend developer
+### 💻 Computer Science Student
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
