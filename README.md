@@ -19,3 +19,23 @@
   - [Reddit](https://www.reddit.com/user/outragedline)
   - [Email](mailto:outragedline@proton.me)
 - ⚡ Fun fact: I use Archlinux btw
+
+
+<br>
+
+
+
+<p align="center">
+  <picture>
+    <img height=160 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=outragedline&theme=tokyonight">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <img height=160 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=outragedline&theme=tokyonight">
+  </picture>
+  <picture>
+    <img height=160 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=outragedline&theme=tokyonight">
+  </picture>
+</p>
