@@ -1,6 +1,6 @@
 ## Hi there, I'm Outragedline
 
-### 💻 Computer Science Student
+### 💻 Self Taught Computer Science And Math Student Since 13yo
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,6 +13,7 @@
 -->
 - 🌱 I’m currently focused on learning the foundations of math and computer science
 - 💬 Ask me about linux 🐧
+- 👯 I’m looking to collaborate on open source projects such as neovim, the linux kernel and many more
 - 📫 How to reach me:
   - [Telegram](https://t.me/outragedline)
   - [linkedin](https://www.linkedin.com/in/diego-janson-860564264)
