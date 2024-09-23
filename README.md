@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently focused on learning the foundations of math and computer science
+- 🌱 I’m currently focused on learning the foundations of math and computer science, and rust 🦀
 - 💬 Ask me about linux 🐧
 - 👯 I’m looking to collaborate on open source projects such as neovim, the linux kernel and many more
 - 📫 How to reach me:
