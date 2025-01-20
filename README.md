@@ -1,6 +1,6 @@
 ## Hi there, I'm Outragedline
 
-### 💻 Self Taught Computer Science And Math Student Since 13yo
+### 💻 Self Taught Computer Science And Math Student
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
