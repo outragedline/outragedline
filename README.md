@@ -22,6 +22,3 @@
 - ⚡ Fun fact: I use Archlinux btw
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=outragedline&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=outragedline&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=outragedline&theme=tokyonight)
